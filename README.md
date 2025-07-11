@@ -1,2 +1,2 @@
 # PingPong25
-Dilip kumar hustling for Bar raiser in CBA
+Codility Practice for medium and complex python programs.
